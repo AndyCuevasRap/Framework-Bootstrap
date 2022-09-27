@@ -1,0 +1,45 @@
+
+#header{
+    background-color: chartreuse ;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#col1{
+    background-color: red;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#col2{
+    background-color: fuchsia;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#col3{
+    background-color: sandybrown;
+    height: 200px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#col4{
+    background-color: sandybrown;
+    height: 200px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.Bloques{
+    background-color: darkblue;
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+} 
+
+#footer{
+    background-color:chartreuse;
+    font-family: fantasy;
+}

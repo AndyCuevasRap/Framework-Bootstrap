@@ -1,0 +1,27 @@
+#Logo{
+    background: linear-gradient(90deg, rgba(235,13,7,1) 0%, rgba(234,235,171,1) 50%, rgba(158,24,21,1) 100%);}
+.Header{
+    font-family: fantasy;
+    background-color: #0D5F9E;
+    color: white;
+}
+#Nothing{
+    background-color: #EAEBAB;
+}
+#Text{
+    font-family:'Rock Salt', cursive;;
+    font-size: 15px;
+    margin: auto;
+    padding: auto;
+    color: #0D5F9E; 
+}
+#Body{
+    background-color: #EAEBAB;
+}
+#Footer{
+    background-color: #0D5F9E;
+}
+.Footer{
+    height: 200px;
+    width: 200px;
+}

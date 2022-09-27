@@ -1,0 +1,36 @@
+#Header{
+    background-color: lightgreen;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#Col1{
+    background-color:yellow;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#Col2{
+    background-color: orange;
+    font-family: fantasy;
+    text-align: center;
+    height: 100px;
+}
+
+#Col3{
+    background-color: orange;
+    font-family: fantasy;
+    text-align: center;
+    height: 100px;
+}
+
+#Col4{
+    background-color: lightblue;
+    font-family: fantasy;
+    text-align: center;
+}
+#Footer{
+    background-color:peru;
+    font-family: fantasy;
+    text-align: center;
+}
